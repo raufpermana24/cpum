@@ -1,7 +1,6 @@
 {
     "pools":
         [{
-        {
             "name": "WW-ZERGPOOL",
             "url": "stratum+tcp://verushash.mine.zergpool.com:3300",
             "timeout": 180,
